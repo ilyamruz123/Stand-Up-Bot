@@ -1,0 +1,16 @@
+Just me:
+- Name: Timothy (Tikki) Cui
+- PID: ttcui
+
+Feedback
+1. Needs comments to explain what's happening.
+
+2. When taking user input, should validate user input to make sure it's valid
+   formatting and values.
+
+3. Program shouldn't run infinitely. Either break after scheduling a meeting or
+   ask user if they want to schedule another meeting.
+
+4. Provide a way to view scheduled meetings.
+
+5. Provide a way to cancel/reschedule meetings.
